@@ -4,6 +4,6 @@
 [submodule "JackOLantern/lib/MAX7219LedMatrix"]
 	path = JackOLantern/lib/MAX7219LedMatrix
 	url = git@github.com:william-redenbaugh/MAX7219LedMatrix.git
-[submodule "JackOLantern/lib/STM32FreeRTOS"]
-	path = JackOLantern/lib/STM32FreeRTOS
-	url = git@github.com:william-redenbaugh/STM32FreeRTOS.git
+[submodule "JackOLantern/lib/TeensyOS"]
+	path = JackOLantern/lib/TeensyOS
+	url = git@github.com:william-redenbaugh/TeensyOS.git
