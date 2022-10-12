@@ -1,0 +1,9 @@
+[submodule "JackOLantern/lib/arduinoFFT"]
+	path = JackOLantern/lib/arduinoFFT
+	url = git@github.com:kosme/arduinoFFT.git
+[submodule "JackOLantern/lib/MAX7219LedMatrix"]
+	path = JackOLantern/lib/MAX7219LedMatrix
+	url = git@github.com:william-redenbaugh/MAX7219LedMatrix.git
+[submodule "JackOLantern/lib/STM32FreeRTOS"]
+	path = JackOLantern/lib/STM32FreeRTOS
+	url = git@github.com:william-redenbaugh/STM32FreeRTOS.git
